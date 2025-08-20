@@ -6,6 +6,7 @@
 
 body {
   min-height: 100vh;
+  background: linear-gradient(to bottom, skyblue 0 60%, green 60% 100%);
 }
 
 main {
